@@ -1,0 +1,26 @@
+.row {
+    child-space: 1s;
+    col-between: 20px;
+}
+
+button {
+    border-width: 0px;
+}
+
+button.dec {
+    background-color: rgb(170, 50, 50);
+}
+
+button.inc {
+    background-color: rgb(50, 170, 50);
+}
+
+label.count {
+    child-space: 1s;
+    border-width: 1px;
+    border-color: #808080;
+    border-radius: 4px;
+    width: 50px;
+    height: 32px;
+}
+
